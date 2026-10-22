@@ -1,0 +1,4 @@
+# Use audio-separator[gpu] instead if you have an NVIDIA GPU (much faster).
+audio-separator[cpu]>=0.47
+audioread
+gradio>=5
